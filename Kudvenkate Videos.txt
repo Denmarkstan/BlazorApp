@@ -1,0 +1,4 @@
+﻿https://www.youtube.com/watch?v=ZRdSKzwOQqk&list=PL6n9fhu94yhVowClAs8-6nYnfsOTma14P&index=10
+
+https://www.pragimtech.com/blog/blazor/blazor-loading-indicator/
+

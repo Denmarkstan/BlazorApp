@@ -1,4 +1,4 @@
-﻿https://www.youtube.com/watch?v=ZRdSKzwOQqk&list=PL6n9fhu94yhVowClAs8-6nYnfsOTma14P&index=10
+﻿https://www.youtube.com/watch?v=YOaIkNc8PcQ&list=PL6n9fhu94yhVowClAs8-6nYnfsOTma14P&index=13
 
-https://www.pragimtech.com/blog/blazor/blazor-loading-indicator/
+https://www.pragimtech.com/blog/blazor/rest-api-repository-pattern/
 

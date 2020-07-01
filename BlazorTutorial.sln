@@ -7,6 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement.Models",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement.Web", "EmployeeManagement.Web\EmployeeManagement.Web.csproj", "{9E63BA12-6C90-40C3-8842-313BB0811560}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement.API", "EmployeeManagement.API\EmployeeManagement.API.csproj", "{F7A54779-AB5B-494E-AFF7-0549134B9F5D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{604EA27C-CA40-46B5-B834-72AF081ADAEA}"
+	ProjectSection(SolutionItems) = preProject
+		Kudvenkate Videos.txt = Kudvenkate Videos.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +28,10 @@ Global
 		{9E63BA12-6C90-40C3-8842-313BB0811560}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E63BA12-6C90-40C3-8842-313BB0811560}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E63BA12-6C90-40C3-8842-313BB0811560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7A54779-AB5B-494E-AFF7-0549134B9F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A54779-AB5B-494E-AFF7-0549134B9F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A54779-AB5B-494E-AFF7-0549134B9F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A54779-AB5B-494E-AFF7-0549134B9F5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
